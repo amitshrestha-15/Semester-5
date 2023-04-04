@@ -1,0 +1,3 @@
+void main(){
+    doubke principal
+}
